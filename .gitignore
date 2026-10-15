@@ -64,3 +64,6 @@ lib/
 .idea
 .vscode
 .DS_Store
+
+# Local jest credentials file (never commit)
+src/tests/.tests-config.js
